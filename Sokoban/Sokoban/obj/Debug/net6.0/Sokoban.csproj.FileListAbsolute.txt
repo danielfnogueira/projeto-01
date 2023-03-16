@@ -29,3 +29,11 @@ C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\sokoba
 C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\sokoban_Aula_03\Sokoban\Sokoban\bin\Debug\net6.0\Content\Crate_Brown.xnb
 C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\sokoban_Aula_03\Sokoban\Sokoban\bin\Debug\net6.0\Content\EndPoint_Blue.xnb
 C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\sokoban_Aula_03\Sokoban\Sokoban\bin\Debug\net6.0\Content\Wall_Brown.xnb
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\Sokoban.csproj.AssemblyReference.cache
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\Sokoban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\Sokoban.AssemblyInfoInputs.cache
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\Sokoban.AssemblyInfo.cs
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\Sokoban.csproj.CoreCompileInputs.cache
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\Sokoban.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\refint\Sokoban.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\projeto-01\Sokoban\Sokoban\obj\Debug\net6.0\Sokoban.pdb
